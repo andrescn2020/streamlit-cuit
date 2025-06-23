@@ -1,0 +1,3 @@
+streamlit==1.28.1
+python-dotenv==1.0.0
+afip.py=1.1.1
